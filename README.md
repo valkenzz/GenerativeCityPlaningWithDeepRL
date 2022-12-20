@@ -9,7 +9,7 @@ the environement is located in city.py, while the Training et result is in main.
 ## Contact
 For any question or bug, don't hesitate to contact valentin.meo.1@ulaval.ca or theo.cavailles.1@ulaval.ca or use github at : https://github.com/valkenzz/Bigeleisen_KIE
 
-##Contributing
+## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
