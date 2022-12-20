@@ -3,7 +3,7 @@ This work explore how DeepRl can be use for urban Zone planing.
 +++
 
 ## Usage
-The usage is detaill in the commante of the code.
+The usage is detaill in the commante of the code. And the notebook is well explain.
 ## Repository
 the environement is located in city.py, while the Training et result is in main.ipynd.
 ## Contact
