@@ -1,7 +1,7 @@
 # GenerativeCityPlaningWithDeepRL
 This work explore how DeepRl can be use for urban Zone planing.
 +++
-![Alt](./Img&Result/GenerativeCity.png “image title”)
+![image](./Img&Result/GenerativeCity.png “image title”)
 ## Usage
 The usage is detaill in the commante of the code. And the notebook is well explain.
 ## Repository
