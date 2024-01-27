@@ -15,7 +15,7 @@ presentation.pdf is the report of this studie.
 The usage is detailed in the code comments. And the notebook is well explained.
 
 ## Contact
-For any question or bug, don't hesitate to contact valentin.meo.1@ulaval.ca or theo.cavailles.1@ulaval.ca or use github at : https://github.com/valkenzz/GenerativeCityPlaningWithDeepRL
+For any question or bug, don't hesitate to contact us or use github at : https://github.com/valkenzz/GenerativeCityPlaningWithDeepRL
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
